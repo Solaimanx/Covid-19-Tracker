@@ -1,6 +1,9 @@
 Demo link - https://covid19tracker-335f3.web.app/
 
 
+<img width="1777" alt="Screenshot 2021-02-23 at 1 08 51 AM" src="https://user-images.githubusercontent.com/55637396/108757745-7389d100-7574-11eb-8f77-4a46a0d48e76.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
